@@ -3,5 +3,5 @@ function add(a, b, c) {
 }
 
 function sayHi() {
-  console.log("sayHi, xix");
+  console.log("sayHi, xix, lala");
 }
